@@ -2423,8 +2423,6 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #007BFF;
   border-color: #007BFF;
-  width: 2rem;
-  height: 2rem;
 }
 
 .btn-primary:hover {
@@ -2441,9 +2439,6 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #007BFF;
   border-color: #007BFF;
-  width: 2rem;
-  height: 2rem;
-
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
